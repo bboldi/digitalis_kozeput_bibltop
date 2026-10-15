@@ -17,7 +17,7 @@ Ebben a tárban az előadás **második részének**, Bednárik Boldizsár rész
 | [cikk.pdf](cikk.pdf) | A második rész írott, cikk formájú változata. Ha csak egy dolgot olvasol el, ez legyen az. |
 | [szuloi-flyer-a4.pdf](szuloi-flyer-a4.pdf) | Egyoldalas, nyomtatható emlékeztető: mit érdemes otthon átnézni, és hol találod hozzá az útmutatókat. |
 | [szuloi-linkgyujtemeny.md](szuloi-linkgyujtemeny.md) | A teljes linkgyűjtemény témák szerint: Android, iPhone, Windows, konzolok, YouTube, Instagram, TikTok, Roblox, ChatGPT. |
-| [digitalis-gyerekvedelem-v2.pdf](digitalis-gyerekvedelem-v2.pdf) | A második rész diái. |
+| [presentation_final.pdf](digitalis-gyerekvedelem-v2.pdf) | A második rész diái. |
 | [plakat.jpeg](plakat.jpeg) | Az esemény plakátja. |
 
 ## Egy első lépés ma este
